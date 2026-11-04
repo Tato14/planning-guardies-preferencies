@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.streamlit/secrets.toml
+.vscode/settings.json
+.idea/
+.DS_Store
+Thumbs.db
+~$*.xlsx
+*.tmp
+
+# --- Dades personals: MAI al repositori ---
+# Les plantilles i la demo es generen per codi; no cal versionar cap Excel.
+*.xlsx
+*.xls
+*.csv
+*.eml
+*.zip
+*.docx
+*REAL*
+*Real*
